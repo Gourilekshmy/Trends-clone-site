@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(205, 187, 163);
+}
+
+.header {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 30px;
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+}
+
+.carousal {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 2px solid;
+  background-color: rgb(251, 249, 249);
+  border-radius: 20px;
+  margin-top: 200px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.flex h5 {
+  margin-top: 25px;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.storedtls {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 2px solid;
+  background-color: rgb(251, 249, 249);
+  border-radius: 20px;
+}
+
+.store {
+  text-align: center;
+  margin-top: -100px;
+}
+
+#boxnav {
+  background-color: rgb(238, 235, 235);
+  width: 800px;
+  border: 10px;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 350px;
+}
+
+#boxnav li {
+  margin-top: -35px;
+}
+
+.form {
+  margin-left: 1300px;
+}
+
+.video {
+  position: relative;
+}
+.details {
+  position: absolute;
+  margin-top: -50px;
+}
+
+.card-body {
+  background-color: rgb(238, 235, 235);
+}
+
+.card {
+  margin-top: 150px;
+  margin-left: 40px;
+}
+
+#row2 {
+  margin-top: -110px;
+}
+.collection {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 2px solid;
+  background-color: rgb(251, 249, 249);
+  border-radius: 20px;
+  margin-top: 100px;
+}
+.btn-outline {
+  border-radius: 50%;
+}
+
+.collection img {
+  height: 300px;
+}
+
+.collctn-type .card {
+  margin-top: 30px;
+}
+.collection h2 {
+  margin-top: 50px;
+}
+.collection .navbar {
+  margin-top: 50px;
+}
+
+.brands {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 2px solid;
+  background-color: rgb(251, 249, 249);
+  border-radius: 20px;
+  margin-top: 100px;
+}
+
+.brands img {
+  width: 100%;
+  border-radius: 30px;
+  margin-top: 50px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  padding: 30px;
+  margin-top: 100px;
+}
+
+.fp-1 {
+  margin-left: 150px;
+}
+
+.fp-1 li {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.fp-1 h1 {
+  margin-top: 18px;
+  margin-left: 60px;
+}
+
+.fp-2 {
+  margin-left: 250px;
+  margin-top: -150px;
+}
+
+.icons a {
+  color: white;
+  margin: 5px;
+}
+
+.fp-3 {
+  margin-left: 1200px;
+  margin-top: -170px;
+}
